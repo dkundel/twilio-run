@@ -16,7 +16,7 @@
     "lint-staged": "lint-staged",
     "docs": "lerna run docs",
     "prepare": "husky install",
-    "pre-commit": "run-s lint-staged test"
+    "pre-commit": "lint-staged"
   },
   "devDependencies": {
     "@commitlint/cli": "^8.1.0",
