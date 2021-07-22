@@ -20,7 +20,7 @@
     "@oclif/plugin-help": "^2.2.1",
     "@oclif/test": "^1.2.5",
     "@twilio/cli-test": "^2.0.2",
-    "globby": "^8.0.2"
+    "globby": "^10.0.0"
   },
   "engines": {
     "node": ">=12.22.1"
